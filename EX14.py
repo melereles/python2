@@ -11,3 +11,4 @@ while tentativa != segredo:
     elif tentativa> segredo:
         print("Bobalhao denovo, tente um numero MENOR")
 print(f"parabens {nome}!! Voce acertou!")
+print("teste 2")
